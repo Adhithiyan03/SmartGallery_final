@@ -16,6 +16,8 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 Members Contributed to this Project:
-  1.S Thanikai Adhithiyan
-  2.K Ashwin
-  3.Gautam Kumar
+  -S Thanikai Adhithiyan
+  -K Ashwin
+  -Gautam Kumar
+  
+Please go through the IITISoC PDF present for getting a good exposure on our app/proejct.
