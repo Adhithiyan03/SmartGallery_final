@@ -15,9 +15,9 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-Members Contributed to this Project:
-  -S Thanikai Adhithiyan
-  -K Ashwin
-  -Gautam Kumar
+# Members Contributed to this Project:
+  - S Thanikai Adhithiyan
+  - K Ashwin
+  - Gautam Kumar
   
 Please go through the IITISoC PDF present for getting a good exposure on our app/proejct.
